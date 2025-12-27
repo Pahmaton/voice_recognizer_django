@@ -9,7 +9,7 @@
 
 1. Клонирование репозитория 
 
-```git clone https://github.com/Pahmaton/lessons.git```
+```git clone https://github.com/Pahmaton/voice_recognizer_django.git```
 
 2. Установка зависимостей
 
